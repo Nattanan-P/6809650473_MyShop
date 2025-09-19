@@ -37,7 +37,6 @@ body{
     padding: 125px;
     margin: auto;
 }
-
 .source1{
     font-size: small;
     color: cornflowerblue;
@@ -52,4 +51,19 @@ video{
 details{
     text-align: center;
     color: darkred;
+}
+
+.sturcture1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* สูงเต็มจอ */
+  margin: 0;
+  background: #f0f2f5;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  width: 200px;   /* ความกว้าง 200px */
+  height: auto;   /* ปรับสูงตามสัดส่วนอัตโนมัติ */
 }

@@ -1,1 +1,55 @@
+h1{
+   text-align: center;
+   color: dimgray;
+   font-size: xx-large;
+   font-family: 'Times New Roman', Times, serif;
+}
 
+h2{
+    text-align: center;
+    color: dimgray;
+    font-size: x-large;
+}
+
+h3{
+    text-align: center;
+    color: dimgray;
+    font-size: x-large;
+}
+
+h4{
+    text-align: center;
+    color: dimgray;
+    font-size: x-large;
+}
+
+p{
+    text-align: center;
+    color: darkgray;
+}
+
+.content1{
+    font-weight: bolder;
+    color: black;
+}
+
+body{
+    padding: 125px;
+    margin: auto;
+}
+
+.source1{
+    font-size: small;
+    color: cornflowerblue;
+    font-weight: 200;
+}
+
+video{
+    width: 500px;
+    height: auto;
+}
+
+details{
+    text-align: center;
+    color: darkred;
+}
